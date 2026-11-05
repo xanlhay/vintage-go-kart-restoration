@@ -70,21 +70,36 @@ Functional restoration completed.
 
 ## Project Gallery
 
-### Completed Go-Kart
-![Completed go-kart](Finished-Build.jpeg)
+### 1. Initial Restoration
 
-### Chassis Fabrication
-![Welded bearing hangers](Bearing-Hangers-Welded.jpeg)
+![Go-kart during rust removal and engine installation](images/Go-Kart-Some-Rust-Removed-New-Engine-REPLACE.jpeg)
 
-![Reinforced rear frame](Reinforced-Rear-Frame.jpeg)
+![Reinforced rear frame](images/Reinforced-Rear-Frame.jpeg)
 
-### Drivetrain
-![Solid live axle](Solid-Live-Axle-Fitted.jpeg)
+### 2. Chassis and Drivetrain Fabrication
 
-![Completed belt transmission](Completed-Belt-Transmission.jpeg)
+![Welded bearing hangers](images/Bearing-Hangers-Welded.jpeg)
 
-### Hydraulic Braking
-![Hydraulic disc brake](Disc-Rotor-Hydraulic-Caliper.jpeg)
+![Solid live axle fitted](images/Solid-Live-Axle-Fitted.jpeg)
 
-### Testing
-![Go-kart field testing](Field-Testing.jpeg)
+![Belt transmission test fitting](images/Test-Fitting-Belt-Transmission.jpeg)
+
+![Completed belt transmission](images/Completed-Belt-Transmission.jpeg)
+
+### 3. Hydraulic Braking System
+
+![Hydraulic disc rotor and caliper](images/Disc-Rotor-Hydraulic-Caliper.jpeg)
+
+![Brake master cylinder mechanism](images/Master-Cylinder-Mechanism.jpeg)
+
+### 4. Wheels and Instrumentation
+
+![New tires installed](images/New-Tires.jpeg)
+
+![Speedometer powered on](images/Speedometer-Powered-On.jpeg)
+
+### 5. Completed Build and Testing
+
+![Finished go-kart](images/Finished-Build.jpeg)
+
+![Go-kart field testing](images/Field-Testing.jpeg)
