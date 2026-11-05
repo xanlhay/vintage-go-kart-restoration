@@ -66,3 +66,25 @@ Construction photographs, component details, and diagrams will be added as docum
 ## Project Status
 
 Functional restoration completed.
+
+
+## Project Gallery
+
+### Completed Go-Kart
+![Completed go-kart](Finished-Build.jpeg)
+
+### Chassis Fabrication
+![Welded bearing hangers](Bearing-Hangers-Welded.jpeg)
+
+![Reinforced rear frame](Reinforced-Rear-Frame.jpeg)
+
+### Drivetrain
+![Solid live axle](Solid-Live-Axle-Fitted.jpeg)
+
+![Completed belt transmission](Completed-Belt-Transmission.jpeg)
+
+### Hydraulic Braking
+![Hydraulic disc brake](Disc-Rotor-Hydraulic-Caliper.jpeg)
+
+### Testing
+![Go-kart field testing](Field-Testing.jpeg)
